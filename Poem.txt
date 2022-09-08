@@ -1,4 +1,4 @@
-The Rianbow
+The Rianbow and the Unicorn
 
 Indigo
 Purpule
@@ -6,7 +6,10 @@ pink
 Orange
 Red
 blue
+Unicorn
 yellow
 green
+purple
 
 These are the colors of the rainbow
+And the Unicorn, that are Ponies
