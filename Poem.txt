@@ -8,5 +8,6 @@ Red
 blue
 yellow
 green
+bash
 
 These are the colors of the rainbow
