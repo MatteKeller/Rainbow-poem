@@ -8,6 +8,7 @@ blue
 Unicorn
 yellow
 green
+Purple
+
 These are the colors of the rainbow
-And the Unicorn
-Ponies
+And the Unicorn, that are Ponies
