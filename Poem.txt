@@ -1,4 +1,5 @@
 The Rianbow
+
 Indigo
 Purpule
 pink
@@ -7,4 +8,5 @@ Red
 blue
 yellow
 green
+
 These are the colors of the rainbow
